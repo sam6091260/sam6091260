@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shane</h1>
 <h3 align="center">A passionate frontend developer from Taiwan</h3>
 
-- 💬 Ask me about **react, js**
+💬 Ask me about **react, js**
 
 <h3 align="left">Connect with me:</h3>
 <a href="https://instagram.com/__ssshane" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__ssshane" height="30" width="40" /></a>
