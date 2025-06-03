@@ -18,8 +18,8 @@
   />
 </a>
  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40"/>
+  <img src="https://www.adobe.com/cc-shared/assets/img/product-icons/svg/photoshop-40.svg" alt="photoshop" width="40" height="40"/>
 </a><a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xd/xd-plain.svg" alt="adobe xd" width="40" height="40"/>
+  <img src="https://www.adobe.com/cc-shared/assets/img/product-icons/svg/xd-40.svg" alt="adobe xd" width="40" height="40"/>
 </a>
 </p>
